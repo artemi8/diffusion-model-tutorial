@@ -11,7 +11,7 @@ To set up your environment and replicate the results, follow the instructions be
 
 ### Instructions for Setting Up the Environment
 
-1. **Install Python Packages**: 
+1. **Install Python Packages (Setting up virtual env is recommended)**: 
    - Run the following command to install the required Python packages:
      ```bash
      pip install -r requirements.txt -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html

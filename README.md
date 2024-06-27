@@ -34,7 +34,7 @@ To set up your environment and replicate the results, follow the instructions be
 
 ### Key Additions
 
-1. **Using the Trained Model**: Download the trained model from releases section.
+1. **Using the Trained Model**: Download the trained model from releases section. Extract it into a folder.
 2. **Updating the Path in Notebooks**: Update the `model_path` variable in the notebooks to point to the directory where the model is placed.
 
 ## Usage

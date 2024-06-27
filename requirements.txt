@@ -1,2 +1,9 @@
 diffusers[training]==0.11.1
+datasets
+accelerate
+huggingface_hub[torch]
 jax[cuda12_pip]==0.4.23
+torch
+torchvision
+matplotlib
+PIL
